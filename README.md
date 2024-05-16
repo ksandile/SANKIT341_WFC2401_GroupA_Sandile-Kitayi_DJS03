@@ -32,8 +32,8 @@ After completing the tasks, prepare a brief presentation for your coaching group
 - Any challenges faced during the refactoring process and how they were overcome.
 - Reflections on how this exercise has deepened your understanding of JavaScript programming concepts.
 
-#### Submission Guidelines
+#### Submitted
 
-Submit the refactored version of the "Book Connect" application, including all HTML, CSS, and JavaScript files. Ensure that your code is well-documented and adheres to the specified Styleguides. Include a written report covering the discussion and reflection points outlined above.
+### Dynamic UI Rendering and Interaction
 
-Make sure to submit your project to the LMS on the DJS03 Project Tab.
+Imported data and constants for initialization, created functions for dynamic HTML element creation, rendering dropdown options, and displaying book previews. Implemented functionality to dynamically update UI elements based on user interactions, like updating button text and loading additional book previews.
